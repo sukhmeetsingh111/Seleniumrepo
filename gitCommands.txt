@@ -1,0 +1,13 @@
+First Add the final
+git add File Name
+
+Then commit the file
+
+git commit -m "any message" fileName
+
+Then Push the file to GitHub
+
+git push -u origin master
+
+Command to check the status of file added or not
+git status 
