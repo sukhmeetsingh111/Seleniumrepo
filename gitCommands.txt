@@ -14,4 +14,4 @@ git status
 
 
 If we want to modify the file exist in our system then we just meed to commit and push that file to gitHub.
-There is no needto add that file again
+There is no need to add that file again
